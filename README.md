@@ -13,6 +13,6 @@ Json Server
 
 In the project directory, you need to run,
 
-### `npm install`
-### `npm run server`
-### `npm start`
+### `npm install` for node modules
+### `npm run server` for jsonserver
+### `npm start` for run the project
